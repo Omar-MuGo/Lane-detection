@@ -1,8 +1,6 @@
 # Lane Detection with CARLA Simulation
 
-[![Lane Detection DEMO]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://github.com/Omar-MuGo/Lane-detection/blob/c3ab1bafd82881c533831197c25b2ba10f250779/Images/thumbnail.png))](https://www.youtube.com/watch?v=Ye1y3uwR9ko)
-
-
+[![Lane Detection DEMO](https://github.com/Omar-MuGo/Lane-detection/blob/c3ab1bafd82881c533831197c25b2ba10f250779/Images/thumbnail.png)](https://www.youtube.com/watch?v=Ye1y3uwR9ko))
 ## Introduction
 
 Lane detection is a crucial aspect of autonomous driving systems, enabling vehicles to understand their environment and navigate safely. This project leverages the CARLA simulation environment and a semantic segmentation algorithm based on UNet to detect left and right lanes in a virtual driving scenario.
