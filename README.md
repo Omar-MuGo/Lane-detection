@@ -1,7 +1,8 @@
 # Lane Detection with CARLA Simulation
 
-[![Lane Detection DEMO](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Ye1y3uwR9ko)
+[![Lane Detection DEMO](https://github.com/Omar-MuGo/Lane-detection/blob/c3ab1bafd82881c533831197c25b2ba10f250779/Images/thumbnail.png)](https://www.youtube.com/watch?v=Ye1y3uwR9ko)
 
+Watch the demo [here](https://www.youtube.com/watch?v=Ye1y3uwR9ko).
 
 ## Introduction
 
