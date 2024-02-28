@@ -17,10 +17,6 @@ Lane detection is a crucial aspect of autonomous driving systems, enabling vehic
 ## Installation
 
 1. **CARLA Setup**: Follow the [CARLA installation guide](https://carla.readthedocs.io/en/latest/start_quickstart/) to set up the CARLA simulator.
-2. **Dependencies**: Install the required Python dependencies listed in `requirements.txt` using pip:
-    ```
-    pip install -r requirements.txt
-    ```
 
 ## Methodology
 
